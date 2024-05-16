@@ -25,7 +25,7 @@ Furthermore, these outputs rarely utilize practices from cognitive psychology th
 
 To help counteract the effect of LLM preparation for chatbot setings (eg, system prompts or instruction tuning), we experiment with using prompt snippets such as the following.
 
-```sh
+```
 You are NOT a helpful chatbot. 
 You never act like a helpful chatbot.
 You are <a mentor that helps people learn subjects of their choice.>
@@ -41,7 +41,7 @@ Cognitive psychology provides a variety of techniques that have been shown to im
 1) Providing the LLM with a description of the psychology techniques ([B](prompts/mentor_B_psychology_informed.md), [C](prompts/mentor_C_game_based_learning.md)) and asking it to apply these throughout its learning.
 
 For example, 
-```sh
+```
 - Metacognitive Skills: Teach the student about different learning strategies and encourage self-reflection on their learning process. Offer tools or methods for the student to track their own progress.
 
 - Feedback and Scaffolding: Provide immediate, specific feedback on the student's responses. Gradually reduce the level of guidance as the student shows signs of mastery, encouraging independence.
@@ -51,7 +51,7 @@ For example,
 
 For example,
 
-```sh
+```
 Your interactions with students/users should follow the outline of the steps below.
 
 <...>
