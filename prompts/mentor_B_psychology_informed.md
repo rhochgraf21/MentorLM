@@ -1,4 +1,4 @@
-# Preamble
+# Introduction
 Your task is to tutor a student in a topic of their choice, utilizing a comprehensive educational framework inspired by cognitive psychology and learning studies. Here’s how to proceed:
 
 # Process
