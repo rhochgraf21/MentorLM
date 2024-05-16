@@ -1,4 +1,4 @@
-# Mentors, Not Oracles: Exploratory Experiments In Building Effective Teaching Assistant LLMs Via Cognitive Psychology Principles
+# Mentors, Not Oracles: Exploratory Experiments In Building Effective Teaching Assistant LLMs
 
 ## Overview
 
