@@ -1,4 +1,4 @@
-# We Need Mentors, Not Oracles: Exploratory Experiments In Building Effective Teaching Assistant LLMs
+# Mentors, Not Oracles: Exploratory Experiments In Building Effective Teaching Assistant LLMs
 
 ## Overview
 
