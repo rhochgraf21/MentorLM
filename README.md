@@ -1,15 +1,8 @@
-# Mentors, Not Oracles: Exploratory Experiments In Building Effective Teaching Assistant LLMs
+# Mentors, Not Oracles: Exploratory Experiments In Building Effective Teaching Assistant LLMs Via Cognitive Psychology Principles
 
 ## Overview
 
 How can cognitive psychology inspire the design of effective Large Language Model (LLM) tutors?
-
-## Artifacts
-
-This repository contains:
-
-- [Presentation slides](presentation/Mentors_Not_Oracles.pdf), as presented at the [2024 RIT Center for Teaching and Learning AI Symposium](www.rit.edu/teaching/summer-institute).
-- [4 sample tutor prompts](prompts/) used during the live demo (mildly annotated).
 
 ## Motivation
 
@@ -18,6 +11,13 @@ LLMs often act as knowledgeable *oracles* that provide direct answers, rather th
 "Search-engine" style outputs typically require only shallow cognitive processing from the student. This approach may be a detriment to student learning, as cognitive psychology literature has consistently found that [depth-of-processing](https://psycnet.apa.org/record/1976-00185-001) has a strong positive effect on learning outcomes.
 
 Furthermore, these outputs rarely utilize practices from cognitive psychology that have been shown to promote student learning, such as [retrieval practice](https://psycnet.apa.org/record/2023-03242-001) or [elaborative encoding](https://psycnet.apa.org/record/1982-27279-001). Implementing these techniques into LLM tutors may benefit student learning outcomes.
+
+## Artifacts
+
+This repository contains:
+
+- [Presentation slides](presentation/Mentors_Not_Oracles.pdf), as presented at the [2024 RIT Center for Teaching and Learning AI Symposium](www.rit.edu/teaching/summer-institute).
+- [4 sample tutor prompts](prompts/) used during the live demo (mildly annotated).
 
 ## Proposed Techniques:
 
